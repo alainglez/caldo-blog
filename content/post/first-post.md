@@ -17,5 +17,6 @@ I actually do this for a living at carnival.com.
 
 Hope you enjoy the reading and find it helpful.
 
-
 {{ partial "disqus.html" . }}
+
+<script id="dsq-count-scr" src="//https-alainglez-github-io-caldo-blog.disqus.com/count.js" async></script>

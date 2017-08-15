@@ -83,6 +83,8 @@
 <p>Hope you enjoy the reading and find it helpful.</p>
 
 <p>{{ partial &ldquo;disqus.html&rdquo; . }}</p>
+
+<script id="dsq-count-scr" src="//https-alainglez-github-io-caldo-blog.disqus.com/count.js" async></script>
 </p>
           <p>14 Aug 2017
             
@@ -102,15 +104,27 @@
 <script type="text/javascript">
      
     var disqus_shortname = 'disqus_vyXr0nndHv';
-    
+
      
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+
+
+
+    var disqus_config = function () {
+    this.page.url = https:
+    this.page.identifier = PAGE_IDENTIFIER; 
+    };
+
+    (function() { 
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-alainglez-github-io-caldo-blog.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
     })();
+
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+<div id="disqus_thread"></div>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
           
         </div>
       </div>
