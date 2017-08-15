@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agile on caldo.io</title>
-    <link>https://example.org/tags/agile/</link>
+    <link>https://alainglez.github.io/caldo-blog/tags/agile/</link>
     <description>Recent content in Agile on caldo.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2017 Copyright - Alain Gonzalez</copyright>
     <lastBuildDate>Mon, 14 Aug 2017 22:10:52 -0400</lastBuildDate>
     
-	<atom:link href="https://example.org/tags/agile/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alainglez.github.io/caldo-blog/tags/agile/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What is caldo?</title>
-      <link>https://example.org/2017/08/14/what-is-caldo/</link>
+      <link>https://alainglez.github.io/caldo-blog/2017/08/14/what-is-caldo/</link>
       <pubDate>Mon, 14 Aug 2017 22:10:52 -0400</pubDate>
       
-      <guid>https://example.org/2017/08/14/what-is-caldo/</guid>
+      <guid>https://alainglez.github.io/caldo-blog/2017/08/14/what-is-caldo/</guid>
       <description>In spanish, caldo means sauce. CALDO also an abbreviation for Cloud, Agile, Lean and DevOps.
 To me: caldo is the sauce for today&amp;rsquo;s enterprise IS management.
 This is a professional blog to share my perspective and experience in management of enterprise applications development teams.

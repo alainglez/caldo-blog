@@ -1,7 +1,7 @@
 theme="material-design"
 themesDir = "themes"
 publishDir = "docs"
-baseurl = "https://example.org/"
+baseurl = "https://alainglez.github.io/caldo-blog/"
 languageCode = "en-us"
 title = "caldo.io"
 MetaDataFormat = "toml"
