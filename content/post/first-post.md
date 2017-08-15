@@ -10,9 +10,12 @@ categories: ["Articles"]
 In spanish, caldo means sauce. CALDO is also an abbreviation for Cloud, Agile, Lean and DevOps.
 
 To me: caldo is the sauce for today's enterprise IS management.
- 
-This is a professional blog to share my perspective and experience in management of enterprise applications development teams.
+
+This is a professional blog to share my perspective and experience in management of enterprise application development teams.
 
 I actually do this for a living at carnival.com.
 
 Hope you enjoy the reading and find it helpful.
+
+
+{{ partial "disqus.html" . }}

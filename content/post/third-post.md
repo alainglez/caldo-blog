@@ -20,3 +20,6 @@ Good reading on Lean includes "The Goal" by Elijah Goldrat, "The Phoenix Project
 I highly recommend you to read at least one of these books. If I had to choose one, go for "Lean Enterprise", a well-researched book and named by Forbes as a top-ten books for CIOs.
 
 Hope you enjoy the reading and look for more posts about Lean.. coming soon!
+
+
+{{ partial "disqus.html" . }}

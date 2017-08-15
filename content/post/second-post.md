@@ -29,4 +29,5 @@ Next step is going to be adding some nice user interface to make it a web applic
 
 I will keep you posted :-)
 
-{{ template "_internal/disqus.html" . }}
+
+{{ partial "disqus.html" . }}
