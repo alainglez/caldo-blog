@@ -1,11 +1,9 @@
 ---
-title: "Third Post"
+title: "Intro to Lean"
 date: 2017-08-15T00:12:45-04:00
 tags: ["Lean"]
 categories: ["Articles"]
 ---
-
-# Thoughts on Lean
 
 Lean is IT. Lean really started it all, not only it revolutionized the Toyota manufacturing process and made it the standard, but provided the scientific underpinning for the Agile methodologies -- saving us from decades of Waterfall process -- and the DevOps transformation of the last few years. I have participated in both Agile and DevOps transformations as a change agent, but 2017 is the year of Lean for enterprise IS management.
 
