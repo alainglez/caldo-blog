@@ -19,7 +19,7 @@ The code for the site's Hugo project is hosted on github and, to boot, it is hos
 
 https://alainglez.github.io/caldo-blog/
 
-#### Tutorial: How to create a deploy a Hugo website
+#### Tutorial: How to create & deploy a Hugo website
 
 {{< youtube id="3wkR8GyDODs" autoplay="true" >}}
 
