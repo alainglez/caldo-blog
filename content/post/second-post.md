@@ -28,3 +28,5 @@ To finish the hosting configuration, I'm going to set up my custom domain caldo.
 Next step is going to be adding some nice user interface to make it a web application using Reactjs library.
 
 I will keep you posted :-)
+
+{{ template "_internal/disqus.html" . }}
