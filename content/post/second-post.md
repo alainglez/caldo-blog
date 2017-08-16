@@ -9,13 +9,13 @@ categories: ["Articles"]
 
 A weekend project, this website was constructed using Hugo "The world's fastest framework for building websites". Hugo is one of the most popular open-source static site generators. It is written in go language and thus super fast, <1 milisecond per page, building your site in miliseconds. It is based on the powerful, light and extensible go html & text templates, supports markdown and shortcodes, comes with templates for SEO, commenting and analytics, plus it is polyglot. I chose a material-design, responsive theme from pdevty.
 
-It is fun! Check out Hugo @
+It is fun! Check out Hugo at:
 
 https://gohugo.io/
 
 https://themes.gohugo.io/material-design/
 
-The code for the site's Hugo project is hosted on github and, to boot, it is hosted for free by Github pages convenient service @
+The code for the Hugo project is hosted on GitHub and, to boot, the actual website is hosted for free by Github Pages convenient service at:
 
 https://alainglez.github.io/caldo-blog/
 
@@ -23,8 +23,8 @@ https://alainglez.github.io/caldo-blog/
 
 {{< youtube id="3wkR8GyDODs" autoplay="true" >}}
 
-To finish the hosting configuration, I'm going to set up my custom domain caldo.io.
+To finish the hosting configuration, I created an A resource with Google Domains for my custom domain http://caldo.io and linked it to the GitHub Pages website.
 
-Next step is going to be adding some nice user interface to make it a web application using Reactjs library.
+Next step is to be add a nice user interface using Reactjs library.
 
 I will keep you posted :-)
