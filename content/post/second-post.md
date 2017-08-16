@@ -25,6 +25,6 @@ https://alainglez.github.io/caldo-blog/
 
 To finish the hosting configuration, I created an A resource with Google Domains for my custom domain http://caldo.io and linked it to the GitHub Pages website.
 
-Next step is to be add a nice user interface using Reactjs library.
+Next step in using this blog as my development playground to try new technologies is to add some nice user interface with Facebook's Reactjs library.
 
 I will keep you posted :-)
