@@ -5,7 +5,7 @@ tags: ["Cloud", "Agile", "Lean", "DevOps"]
 categories: ["Articles"]
 ---
 
-## What is caldo?
+##### What is caldo?
 
 In spanish, caldo means sauce. CALDO is also an abbreviation for Cloud, Agile, Lean and DevOps.
 
