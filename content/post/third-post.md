@@ -17,6 +17,6 @@ Lean is about a relentless drive to reduce cycle time, the time between the cust
 
 Good reading on Lean includes "The Goal" by Elijah Goldrat, "The Phoenix Project" by Gene Kim, and "Lean Enterprise" by Jez Humble. Next on my list of books is "Lean Startup".
 
-I highly recommend you to read at least one of these books. If I had to choose one, go for "Lean Enterprise", a well-researched book and named by Forbes as a top-ten books for CIOs.
+I highly recommend reading at least one of these books. If I had to choose one, it would be "Lean Enterprise", a well-researched book and named by Forbes as a top-ten books for CIOs.
 
 Hope you enjoy the reading and look for more posts about Lean.. coming soon!

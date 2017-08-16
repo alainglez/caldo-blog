@@ -21,7 +21,7 @@ https://alainglez.github.io/caldo-blog/
 
 #### Tutorial: How to create & deploy a Hugo website
 
-{{< youtube id="3wkR8GyDODs" autoplay="true" >}}
+{{< youtube id="3wkR8GyDODs" autoplay="false" >}}
 
 To finish the hosting configuration, I created an A resource with Google Domains for my custom domain http://caldo.io and linked it to the GitHub Pages website.
 
