@@ -12,7 +12,8 @@ copyright = "© 2017 Copyright - Alain Gonzalez"
 [params]
   name = "Alain"
   description = "The Sauce for Today's Enterprise IS Management" # optional
-  bio = "I make enterprise digital transformation happen"
+  # bio = "I make enterprise digital transformation happen"
+  bio = "Cloud, Agile, Lean & DevOps"
   twitter = "@gonzalezalain" # optional
   # gitlab = "Your Gitlab Name" # optional
   github = "alainglez" # optional
