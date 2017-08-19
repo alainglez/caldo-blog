@@ -1,10 +1,9 @@
 ---
-title: "Fourth"
+title: "Managing Complex Systems?"
 date: 2017-08-19T13:54:39-04:00
-draft: true
 ---
 
-#####
+##### Enterprise Digital Transformations are not easy.
 
 Today's Enterprise eCommerce Sites are complex mission-critical systems. To understand where complexity comes from, here are some of the questions that need to be answered for the code written and shipped by a software development team.
 
@@ -40,6 +39,9 @@ Today's Enterprise eCommerce Sites are complex mission-critical systems. To unde
 30. Is it Deployed via a Canary?
 31. Is it Easy to Rollback?
 32. Is it using the Best Technology Stack?
+
+There are outside factors, usually not in the control of the core development team.
+
 33. Is the Infrastructure working (Metal Servers, VMs, Containers, Network, Load Balancer, Operating System, Web Server)
 34. Are the Subsystems working? (Mainframe, OLTP Database, Data Streams, Data Warehouse, Caching - Elastic/Redis)
 35. Is the Content Delivery Network working?
@@ -60,8 +62,10 @@ We haven't even discussed the most important factor, the human resources that ma
 43. Are the Resources Burnt Out?
 44. Are there Opportunities for Career Growth?
 45. Are the Resources Happy?
-46. Is there a Collaborative Working Environment?
+46. Are the Computers Adequate for the Job?
 47. Is the Office Layout and Furniture Conducive to Productivity or Interruptions?
-48. Are the Computers Adequate for the Job?
+48. Is there a Collaborative Working Environment?
+49. Is there a Culture that Supports Innovation and Learning from Failure?
+50. Is their a True Partnership between Business, Development, Security and Operations teams?
 
-While far from exhaustive, I hope this gives you an idea of some of the questions that need to be answered YES every single day for an Operation to work smoothly.
+While far from exhaustive, I hope this gives you an idea of some of the questions that need to be answered YES every single day for a Digital Operation to run smoothly.
