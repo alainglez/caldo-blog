@@ -1,5 +1,5 @@
 ---
-title: "Managing Complex Systems?"
+title: "Complex Systems?"
 date: 2017-08-19T13:54:39-04:00
 ---
 
