@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://alainglez.github.io/caldo-blog/2017/08/19/complex-systems/</loc>
+    <loc>https://alainglez.github.io/caldo-blog/2017/08/19/why-we-really-need-caldo/</loc>
     <lastmod>2017-08-19T13:54:39-04:00</lastmod>
   </url>
   
@@ -30,19 +30,25 @@
   
   <url>
     <loc>https://alainglez.github.io/caldo-blog/categories/articles/</loc>
-    <lastmod>2017-08-15T00:12:45-04:00</lastmod>
+    <lastmod>2017-08-19T13:54:39-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://alainglez.github.io/caldo-blog/categories/</loc>
-    <lastmod>2017-08-15T00:12:45-04:00</lastmod>
+    <lastmod>2017-08-19T13:54:39-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://alainglez.github.io/caldo-blog/tags/cloud/</loc>
     <lastmod>2017-08-14T23:47:46-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alainglez.github.io/caldo-blog/tags/complexity/</loc>
+    <lastmod>2017-08-19T13:54:39-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -65,7 +71,19 @@
   </url>
   
   <url>
+    <loc>https://alainglez.github.io/caldo-blog/tags/people/</loc>
+    <lastmod>2017-08-19T13:54:39-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://alainglez.github.io/caldo-blog/post/</loc>
+    <lastmod>2017-08-19T13:54:39-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alainglez.github.io/caldo-blog/tags/process/</loc>
     <lastmod>2017-08-19T13:54:39-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -73,6 +91,12 @@
   <url>
     <loc>https://alainglez.github.io/caldo-blog/tags/</loc>
     <lastmod>2017-08-14T22:10:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alainglez.github.io/caldo-blog/tags/technology/</loc>
+    <lastmod>2017-08-19T13:54:39-04:00</lastmod>
     <priority>0</priority>
   </url>
   

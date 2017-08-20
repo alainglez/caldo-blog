@@ -1,71 +1,69 @@
 ---
-title: "Complex Systems?"
+title: "Why we really need CALDO"
 date: 2017-08-19T13:54:39-04:00
+tags: ["People", "Process", "Technology", "Complexity"]
+categories: ["Articles"]
 ---
 
-##### Enterprise Digital Transformations are not easy.
+##### Enterprise Digital Transformations are complex business.
 
-Today's Enterprise eCommerce Sites are complex mission-critical systems. To understand where complexity comes from, here are some of the questions that need to be answered for the code written and shipped by a software development team.
+Today's Enterprise eCommerce Sites are complex mission-critical systems. To understand where complexity comes from, here are some of the questions that need to be answered continuously for the code written and shipped incrementally by a modern software development team.
 
-1. Does it Work?
-2. Is it Available?
-3. Is it Reliable?
-4. Is it Scalable?
-5. Is it Resilient?
-6. Is its Design Responsive?
-7. Is it Secure?
-8. Is it ADA Compliant?
-9. Is it Performant?
-10. Is it Maintainable?
-11. Is it Observable?
-12. Is it Monitored?
-13. Is it Manually Tested?
-14. Is it Unit Tested?
-15. Is it Service Tested?
-16. Is it End-to-End Tested?
-17. Is it Documented?
-18. Is it Backed up?
-19. Is it Traceable?
-20. Is it Approved?
-21. Are all Business Stakeholders timely informed of New Features?
-22. Is the Team Productive?
-23. Is there Product Ownership and Accountability by a Team?
-24. Is the Code Continuously Integrated?
-25. Is the Product Backlog groomed?
-26. Is the Product Backlog prioritized?
-27. Is it Deployed Automatically?
-28. Is it Deployed Frequently?
-29. Is it A/B tested?
-30. Is it Deployed via a Canary?
-31. Is it Easy to Rollback?
-32. Is it using the Best Technology Stack?
+1.  Does it work?
+2.  Is it performant?
+3.  Is it secure?
+4.  Is it available?
+5.  Is it reliable?
+6.  Is it scalable?
+7.  Is it resilient?
+8.  Is it responsive design?
+9.  Is it ADA compliant?
+10. Is it maintainable?
+11. Is it observable?
+12. Is it traceable?
+13. Is it monitored?
+14. Is there low-noise automated alerting?
+15. Is it manually tested?
+16. Is it unit tested?
+17. Is it API tested?
+18. Is it end-to-end tested?
+19. Is it documented?
+20. Is it backed up?
+21. Is it approved?
+22. Are business stakeholders timely informed and trained on new features?
+23. Is the team producing at a high velocity?
+24. Is there product ownership and accountability at the team level?
+25. Is the code continuously integrated?
+26. Is the product backlog groomed?
+27. Is the product backlog prioritized?
+28. Is a test environment automatically provisioned?
+29. Is it deployed automatically?
+30. Is it deployed frequently?
+31. Is the development hypothesis-driven?
+32. Is it A/B tested?
+33. Is it deployed via a canary?
+34. Is it easy to rollback?
+35. Is it using the best technology stack?
+36. Is the infrastructure working (Metal Servers, VMs, Containers, Network, Load Balancer, Operating System, Web Server)
+37. Are the subsystems working? (CMS, Mainframe, OLTP Database, Data Streams, Data Warehouse, Caching - Elastic/Redis)
+38. Is the content delivery network working?
+39. Is the internet working? (DNS, ISP)
+40. Are the resources qualified?
+41. Are the resources well-paid?
+42. Are the resources motivated?
+43. Are the resources trained?
+44. Are the resources challenged?
+45. Are the resources burned out?
+46. Are there opportunities for career growth?
+47. Are the resources happy?
+48. Are the computers adequate for the job?
+49. Is the office layout and furniture conducive to productivity or distractions?
+50. Is there a collaborative working environment?
+51. Is there a culture that supports innovation and learning from failure?
+52. Is there a real partnership between Business, Development, Security and Operations teams?
+53. Is the conversion rate for every page of your booking funnel normal all the time? This is the question that really matters to the business but, since the goal is to continually improve the conversion rate over time, it is a moving target!
 
-There are outside factors, usually not in the control of the core development team.
 
-33. Is the Infrastructure working (Metal Servers, VMs, Containers, Network, Load Balancer, Operating System, Web Server)
-34. Are the Subsystems working? (Mainframe, OLTP Database, Data Streams, Data Warehouse, Caching - Elastic/Redis)
-35. Is the Content Delivery Network working?
-36. Is the Internet working? (DNS, ISP)
+While far from exhaustive, these questions show how complex these systems are and how many things need to be in place. That is why we need CALDO, the right mix of Cloud, Agile, Lean and DevOps to undertake your digital transformation and have the operation running smoothly.
 
-More importantly, the question that really matter to the business:
-
-37. Is the Conversion Rate for every page of your funnel normal right now?
-(If you can define what normal is at a given point in time as your goal is to continually improve it over time)
-
-We haven't even discussed the most important factor, the human resources that make it all possible.
-
-38. Are the Resources Qualified?
-39. Are the Resources Well-Paid?
-40. Are the Resources Motivated?
-41. Are the Resources Trained?
-42. Are the Resources Challenged?
-43. Are the Resources Burnt Out?
-44. Are there Opportunities for Career Growth?
-45. Are the Resources Happy?
-46. Are the Computers Adequate for the Job?
-47. Is the Office Layout and Furniture Conducive to Productivity or Interruptions?
-48. Is there a Collaborative Working Environment?
-49. Is there a Culture that Supports Innovation and Learning from Failure?
-50. Is their a True Partnership between Business, Development, Security and Operations teams?
-
-While far from exhaustive, I hope this gives you an idea of some of the questions that need to be answered YES every single day for a Digital Operation to run smoothly.
+So many questions to answer, so many posts to write.

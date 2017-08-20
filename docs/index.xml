@@ -13,13 +13,13 @@
     
     
     <item>
-      <title>Complex Systems?</title>
-      <link>https://alainglez.github.io/caldo-blog/2017/08/19/complex-systems/</link>
+      <title>Why we really need CALDO</title>
+      <link>https://alainglez.github.io/caldo-blog/2017/08/19/why-we-really-need-caldo/</link>
       <pubDate>Sat, 19 Aug 2017 13:54:39 -0400</pubDate>
       
-      <guid>https://alainglez.github.io/caldo-blog/2017/08/19/complex-systems/</guid>
-      <description>Enterprise Digital Transformations are not easy. Today&amp;rsquo;s Enterprise eCommerce Sites are complex mission-critical systems. To understand where complexity comes from, here are some of the questions that need to be answered for the code written and shipped by a software development team.
- Does it Work? Is it Available? Is it Reliable? Is it Scalable? Is it Resilient? Is its Design Responsive? Is it Secure? Is it ADA Compliant? Is it Performant?</description>
+      <guid>https://alainglez.github.io/caldo-blog/2017/08/19/why-we-really-need-caldo/</guid>
+      <description>Enterprise Digital Transformations are complex business. Today&amp;rsquo;s Enterprise eCommerce Sites are complex mission-critical systems. To understand where complexity comes from, here are some of the questions that need to be answered continuously for the code written and shipped incrementally by a modern software development team.
+ Does it work? Is it performant? Is it secure? Is it available? Is it reliable? Is it scalable? Is it resilient? Is it responsive design?</description>
     </item>
     
     <item>
