@@ -64,6 +64,4 @@ Today's Enterprise eCommerce Sites are complex mission-critical systems. To unde
 53. Is the conversion rate for every page of your booking funnel normal all the time? This is the question that really matters to the business but, since the goal is to continually improve the conversion rate over time, it is a moving target!
 
 
-While far from exhaustive, these questions show how complex these systems are and how many things need to be in place. That is why we need CALDO, the right mix of Cloud, Agile, Lean and DevOps to undertake your digital transformation and have the operation running smoothly.
-
-So many questions to answer, so many posts to write.
+While far from exhaustive, these questions show how complex these systems are and how many things need to be in place. That is why we need CALDO, a mix of Cloud, Agile, Lean and DevOps to undertake a digital transformation and have the operation running smoothly.
