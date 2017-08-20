@@ -35,7 +35,7 @@ Today's Enterprise eCommerce Sites are complex mission-critical systems. To unde
 24. Is there product ownership and accountability at the team level?
 25. Is the code continuously integrated?
 26. Is the product backlog groomed?
-27. Is the product backlog prioritized?
+27. Is the product roadmap groomed?
 28. Is a test environment automatically provisioned?
 29. Is it deployed automatically?
 30. Is it deployed frequently?
