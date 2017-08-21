@@ -65,3 +65,6 @@ Today's Enterprise eCommerce Sites are complex, mission-critical systems. To und
 
 
 While far from exhaustive, these questions show how complex these systems are and how many things need to be in place. That is why we need CALDO, a mix of Cloud, Agile, Lean and DevOps to undertake a digital transformation and have the operation running smoothly.
+
+
+{{< tweet 899335552541093888 >}}
