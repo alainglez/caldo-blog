@@ -7,7 +7,7 @@ categories: ["Articles"]
 
 ##### Enterprise Digital Transformations are complex business.
 
-Today's Enterprise eCommerce Sites are complex mission-critical systems. To understand where complexity comes from, here are some of the questions that need to be answered continuously for the code written and shipped incrementally by a modern software development team.
+Today's Enterprise eCommerce Sites are complex, mission-critical systems. To understand where complexity comes from, here are some of the questions that need to be answered continuously for the code written and shipped incrementally by a modern software development team.
 
 1.  Does it work?
 2.  Is it performant?
